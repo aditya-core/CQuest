@@ -1,0 +1,19 @@
+# .gitignore
+
+*.exe
+*.dll
+*.obj
+*.out
+*.o
+
+
+#directories
+
+.vscode/
+.idea/
+build/
+
+#OS temp files 
+
+.DS_Store
+Thumbs.db
